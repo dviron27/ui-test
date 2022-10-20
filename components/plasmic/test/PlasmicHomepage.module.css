@@ -1570,6 +1570,19 @@
   left: 32px;
   border-radius: 8px;
 }
+.img___34GHp {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  left: 0px;
+  top: 0px;
+}
+.img___34GHp > picture > img {
+  object-fit: cover;
+}
+.img___34GHp > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
 .text__lp77Y {
   display: block;
   font-size: 16px;

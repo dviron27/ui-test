@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -38,6 +38,19 @@
             "modulePath": "../pages/index.tsx"
           },
           "cssFilePath": "plasmic/test/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "oZN2c5bl41",
+          "name": "Header",
+          "type": "managed",
+          "projectId": "cHaHvZ5h5c93gdT9a46z66",
+          "renderModuleFilePath": "plasmic/test/PlasmicHeader.tsx",
+          "importSpec": {
+            "modulePath": "../pages/header.tsx"
+          },
+          "cssFilePath": "plasmic/test/PlasmicHeader.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }

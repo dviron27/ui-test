@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+.rectangle3469427 {
+  background: url("/plasmic/test/images/rectangle3469427.jpeg") 0px -73px / 1376px 680px no-repeat;
+  width: 1376px;
+  height: 437px;
+  display: block;
+  flex-shrink: 0;
+  border-radius: 8px;
+}

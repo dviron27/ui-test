@@ -1117,7 +1117,19 @@ function PlasmicHomepage__RenderFunc(props: {
               data-plasmic-name={"rectangle3469428"}
               data-plasmic-override={overrides.rectangle3469428}
               className={classNames(projectcss.all, sty.rectangle3469428)}
-            />
+            >
+              <p.PlasmicImg
+                alt={""}
+                className={classNames(sty.img___34GHp)}
+                displayHeight={"auto" as const}
+                displayMaxHeight={"none" as const}
+                displayMaxWidth={"100%" as const}
+                displayMinHeight={"0" as const}
+                displayMinWidth={"0" as const}
+                displayWidth={"auto" as const}
+                loading={"lazy" as const}
+              />
+            </div>
 
             <div
               className={classNames(
